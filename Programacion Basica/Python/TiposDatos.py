@@ -10,3 +10,6 @@ print("Entero = ", entero)
 print("Cadena = ", cadena)
 print("flotante =", flotante)
 print("Booleano =", booleano)
+
+#**C:** Tipado obligatorio (`int`, `float`, `double`, `char`), usa `printf` para salida, requiere `main()`.  
+#**Python:** Tipado dinámico, variables flexibles, `print()` para salida, más simple y legible.
